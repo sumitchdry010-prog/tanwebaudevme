@@ -1,0 +1,35 @@
+{
+    "name": "AU Express credit card services",
+    "short_name": "AU Express credit card services",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#016DCD",
+    "theme_color": "#016DCD",
+    "description": "AU Express Credit Cards offer secure, convenient, and rewarding payment solutions. Choose from a wide range of cards designed for shopping, travel, dining, and more—backed by the trust of AU Express Bank of India",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-maskable-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/Icon-maskable-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
